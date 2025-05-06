@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamCheker.Lib", "SteamCheker.Lib\SteamCheker.Lib.csproj", "{3802F429-FDE9-4FD1-AB0C-1069914027BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSteam", "TestSteam\TestSteam.csproj", "{6CBD8840-DADD-4B6F-88EF-BD9C4B234C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3802F429-FDE9-4FD1-AB0C-1069914027BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3802F429-FDE9-4FD1-AB0C-1069914027BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3802F429-FDE9-4FD1-AB0C-1069914027BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3802F429-FDE9-4FD1-AB0C-1069914027BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CBD8840-DADD-4B6F-88EF-BD9C4B234C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBD8840-DADD-4B6F-88EF-BD9C4B234C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CBD8840-DADD-4B6F-88EF-BD9C4B234C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CBD8840-DADD-4B6F-88EF-BD9C4B234C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6CBD8840-DADD-4B6F-88EF-BD9C4B234C7C} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2938B8C8-F870-4548-A733-2E935ACB346C}
+	EndGlobalSection
+EndGlobal
