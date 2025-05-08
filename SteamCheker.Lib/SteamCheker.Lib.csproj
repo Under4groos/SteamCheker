@@ -4,6 +4,12 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>SteamCheker</Title>
+    <Description>Для получения списка пользователей, авторизованных в Steam.</Description>
+    <Copyright>MIT</Copyright>
+    <PackageProjectUrl>https://github.com/Under4groos/SteamCheker</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Under4groos/SteamCheker</RepositoryUrl>
   </PropertyGroup>
 
 </Project>

@@ -6,6 +6,7 @@
         public string? AccountName { get; set; }
         public string? PersonaName { get; set; }
         public string? SteamID { get; set; }
+
         public SteamUser()
         {
 
