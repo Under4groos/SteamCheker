@@ -21,6 +21,7 @@ using (SteamParser steam = new SteamParser())
 
     steam.Init();
 }
+```
 
 ```cs
 public class SteamUser
